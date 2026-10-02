@@ -1,4 +1,0 @@
-Modelo,MAE (W/m²),MSE ((W/m²)²),RMSE (W/m²),R²
-Regressão Linear,145.2049,30034.2011,173.3038,0.3598
-Árvore de Decisão,86.6787,14358.5877,119.8273,0.694
-Random Forest,67.8676,7457.4227,86.3564,0.8411
