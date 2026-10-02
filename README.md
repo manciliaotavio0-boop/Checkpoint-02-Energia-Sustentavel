@@ -30,10 +30,6 @@ As duas tarefas foram feitas em **Python** (notebook) e repetidas no **Orange Da
 ├── figuras/                                       # gráficos gerados pelo notebook
 ├── resultados/                                    # tabelas de métricas geradas pelo notebook
 └── orange/
-    ├── fluxo_classificacao.ows                    # fluxo do Orange — classificação
-    ├── fluxo_regressao.ows                        # fluxo do Orange — regressão
-    ├── aneel_treino_80.csv / aneel_teste_20.csv   # mesma divisão estratificada usada no Python
-    ├── meteo_treino_80.csv / meteo_teste_20.csv   # mesma divisão temporal usada no Python
     └── capturas/                                  # capturas de tela dos fluxos e resultados
 ```
 
