@@ -56,12 +56,6 @@ Nenhuma das APIs exige token. Nada de senha ou chave foi publicado.
 
 O notebook consulta as duas APIs e gera os CSVs. Se a rede bloquear a consulta, ele usa os CSVs deste repositório (os mesmos gerados pelo notebook de apoio do professor) e segue normalmente. Ele também grava os gráficos em `figuras/`, as métricas em `resultados/` e as divisões de treino/teste em `orange/`.
 
-**Orange Data Mining**
-
-1. Instale o [Orange](https://orangedatamining.com/download/) (testado na versão 3.40).
-2. Abra `orange/fluxo_classificacao.ows` ou `orange/fluxo_regressao.ows` (*File → Open*). Os widgets *File* apontam para os CSVs da própria pasta `orange/`, por caminho relativo.
-3. Clique duas vezes em **Test and Score** para ver as métricas, e em **Confusion Matrix** / **Predictions** para ver os erros.
-
 ---
 
 ## Tarefa 1 — Classificação da fonte (Python)
